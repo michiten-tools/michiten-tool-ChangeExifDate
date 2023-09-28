@@ -1,1 +1,1 @@
-# ChangeExifDate
+使い方は赤岡までどうぞ
